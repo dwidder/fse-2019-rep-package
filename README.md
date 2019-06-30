@@ -1,6 +1,6 @@
 # Replication Package
 
-This blind replication package accompanies `A Conceptual Replication of TravisCI Pain Points`, accepted to FSE 2019.
+This replication package accompanies `A Conceptual Replication of TravisCI Pain Points`, accepted to FSE 2019.
 
 ## Observations and Interview Questions
 To allow other researchers to confirm observations from our literature review which were out of scope for our study, the full list of observations is provided in the `pdf` document included here. We also provide our interview protocol used for the 12 semistructured interviews in the same document, should future researchers wish to use a similar protocol. 
